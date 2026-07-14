@@ -9,12 +9,15 @@ Live Demo
  [Play the Game Here](https://lamiya-art.github.io/WebProject/)
 
 
+
+
+---
+
 ## 🛠️ Project Structure
 
-* `index.html` - Main entry point, includes the game canvas and the layout.
-* `pacman.js` - The core game engine, movement logic, smart AI, state stuff, and the game loop(s).
-* `pacman.css` - The styling sheet, for a clean look and pixel aligned arcade vibes.
-* `assets/` - Image sprites for Pac-Man, walls, and the rest of the little things
+*   📄 [index.html](https://github.com/lamiya-art/WebProject/blob/main/index.html) - Main entry point, includes the game canvas and the layout.
+*   ⚡ [pacman.js](https://github.com/lamiya-art/WebProject/blob/main/pacman.js) - The core game engine, movement logic, smart AI, state systems, and game loop(s).
+*   🎨 [pacman.css](https://github.com/lamiya-art/WebProject/blob/main/pacman.css) - The styling sheet, for a clean look and pixel-aligned arcade vibes.
 
 ## 🎓 Credits & Learning
 This project was built as a learning experience by following the excellent YouTube tutorial series by **Kenny Yip Coding**, with custom modifications and gameplay features added on top.
