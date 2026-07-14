@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    overflow: hidden;
+    background-color: #111; /* Optional: darkens the page background around the game */
+}
+
+#board {
+    background-color: black;
+    
+    /* Keeps your pixel art sharp and crisp on all modern browsers */
+    image-rendering: pixelated;       /* Chrome, Edge, and Opera */
+    image-rendering: crisp-edges;     /* Firefox */
+}
