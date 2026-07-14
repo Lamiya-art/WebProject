@@ -6,7 +6,7 @@ So, this is a classic arcade style Pac-Man game made from scratch, with vanilla 
 
 
 Live Demo
- [Play the Game Here](https://Lamiya-art.github.io/WebProject/)
+ [Play the Game Here](https://lamiya-art.github.io/WebProject/)
 
 
 ## 🛠️ Project Structure
